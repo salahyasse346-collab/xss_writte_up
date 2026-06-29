@@ -1,1 +1,1 @@
-# xss_writte_up
+Bug-Bounty-Writeups
